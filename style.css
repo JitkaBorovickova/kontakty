@@ -5,25 +5,11 @@ html { box-sizing: border-box; }
 body {
 	font-family: sans-serif;
 	font-size: 14px;
+	width: 150px;
 }
 
 /* ---------------------------------------------------- */
 
-.tym {
-	padding: 5px 0px 10px 30px;
-	width: 150px;
-}
 
-h1 {
-	padding: 20px 30px;
-	margin: 0px;
-}
-
-.osoba {
-	border: 1px solid grey;
-	width: 150px;
-	border-radius: 50%;
-
-}
 
 
